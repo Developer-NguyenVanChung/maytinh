@@ -1,0 +1,109 @@
+body{
+    background-image: url(https://www.hinhnenemail.com/files/christmas/260/top.gif);
+    background-repeat: no-repeat;
+    background-position:top center !important;
+    background-size: cover;
+    background-attachment:fixed;
+    color: #fff !important;
+    /* font-size: 20px; */
+}
+.title {
+    margin-top: 24px;
+    text-transform: uppercase;
+    margin-bottom: 36px;
+}
+.container1{
+    color: red;
+    font-weight: 700;
+    /* font-size: 1.6rem; */
+    width: fit-content;
+    display: flex;
+    margin: 40px auto;
+    justify-content: space-between;
+    /* flex-wrap: nowrap; */
+    padding: 12px 24px;
+    align-items: center;
+
+}
+section:last-child{
+    margin-left: 32px;
+}
+.operator{
+    padding: 12px 0px;
+    text-align: center;
+}
+.operator button{
+    padding :8px 12px;
+    margin: 0px 12px;
+    border: 1px solid #ccc;
+}
+.operator button i{
+    font-size: 24px;
+}
+.display,.display2{
+    font-size: 34px;
+    margin: 3px auto 3px auto;
+    color:#fff;
+    /* border: 1px solid #ccc; */
+    border-radius: 50%;
+    text-align: center;
+    width:fit-content;
+    padding: 0px 20px;
+}
+.title2{
+    margin: 0;
+}
+.result{
+    margin-bottom: 48px;
+    border-bottom: 1px solid #ccc;
+}
+    
+.container1 input[type="reset"]{
+    padding: 8px;
+    /* position: relative;
+    top: 8px; */
+    margin-left: 12px;
+    line-height: 10px;
+    height: 30px;
+    /* display:none; */
+}
+.s2{
+    margin: 0 8px 0 36px;
+}
+    
+    
+.style{
+    border: 1px solid #ccc;
+    color: yellow;
+    background-color: red;
+}
+.title2{
+    padding-left: 48px;
+}
+.result2{
+    /* padding: 10px;
+    margin: 0;
+    height: 20px; */
+}
+#new2,#new3{
+    padding: 4px !important;
+    margin: 0 auto !important;
+    color: #fff;
+    /* border: 1px solid #ccc; */
+    width: fit-content;
+    font-weight: 700;
+    font-size: 22px;
+    text-align: center;
+}
+.newS{
+    border: 1px solid #ccc;
+}
+#reset2{
+    position: relative;
+    /* margin-top: 12px;
+    margin-left: 12px; */
+    margin:12px auto;
+}
+.mb{
+    margin-bottom: 100px;
+}
